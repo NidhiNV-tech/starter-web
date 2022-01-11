@@ -2,6 +2,7 @@
 This is a simple project.
 
 ## Intro
+This is the introduction part.
 
 ## Purpose
 
